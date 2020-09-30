@@ -1,0 +1,13 @@
+header img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
